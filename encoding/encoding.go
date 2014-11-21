@@ -20,7 +20,8 @@ import (
 	"errors"
 	"unicode/utf8"
 
-	"golang.org/x/text/transform"
+	//"golang.org/x/text/transform"
+    "github.com/weisd/golang.org-x-text/transform"
 )
 
 // Encoding is a character set encoding that can be transformed to and from
